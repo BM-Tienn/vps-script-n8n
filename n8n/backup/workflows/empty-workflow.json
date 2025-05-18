@@ -1,0 +1,13 @@
+{
+  "id": "1",
+  "name": "Empty Workflow",
+  "nodes": [],
+  "connections": {},
+  "active": false,
+  "settings": {},
+  "tags": [],
+  "pinData": {},
+  "versionId": "14e58e7e-2b72-4d2d-b2ac-4fcf46a42bc9",
+  "triggerCount": 0,
+  "staticData": null
+} 
